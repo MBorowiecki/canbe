@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592626987215",
+    "project_id": "doggo-317910",
+    "storage_bucket": "doggo-317910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592626987215:android:697029a901d4600d8987ba",
+        "android_client_info": {
+          "package_name": "com.example.canbe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592626987215-hvbub25ai43hmfmqhffv1oirrhnsfd0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqymk8cKnlG6s1nxkPqWJ5VVVGThV6trA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592626987215-hvbub25ai43hmfmqhffv1oirrhnsfd0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
